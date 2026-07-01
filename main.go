@@ -13,7 +13,7 @@ import (
 	"time"
 )
 
-const apiURL = "https://xn--mll-hoa.io/api/fetch"
+const apiURL = "https://binable.app/api/fetch"
 
 var version = "dev"
 

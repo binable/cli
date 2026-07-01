@@ -1,3 +1,3 @@
-module muell-cli
+module binable-cli
 
 go 1.26.4

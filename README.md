@@ -47,7 +47,7 @@ Pre-built binaries for Linux, macOS, and Windows are available on the [Releases]
 
 ```bash
 # macOS (Apple Silicon)
-curl -L https://github.com/<org>/cli/releases/latest/download/binable-macos-arm64 -o binable
+curl -L https://github.com/binable/cli/releases/latest/download/binable-macos-arm64 -o binable
 chmod +x binable
 ```
 
@@ -56,7 +56,7 @@ chmod +x binable
 **Requirement:** [Go 1.21+](https://go.dev/dl/)
 
 ```bash
-git clone https://github.com/<org>/cli.git
+git clone https://github.com/binable/cli.git
 cd cli
 go build -o binable .
 ```
