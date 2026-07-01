@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2026 Tim Lochmüller <tim@binable.app>
+
+SPDX-License-Identifier: MIT
+-->
+
 # binable CLI
 
 Command-line tool to fetch waste collection schedules via [binable.app](https://binable.app).
